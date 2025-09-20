@@ -174,12 +174,7 @@ GET    /api/plans       - Üyelik planları
 4. Push edin (`git push origin feature/amazing-feature`)
 5. Pull Request açın
 
-## 📞 İletişim
 
-**Geliştirici:** [Adınız]
-**Email:** [email@example.com]
-**LinkedIn:** [linkedin.com/in/profile]
-**Portfolio:** [portfolio-website.com]
 
 ## 📄 Lisans
 
